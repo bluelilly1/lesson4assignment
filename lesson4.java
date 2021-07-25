@@ -1,5 +1,4 @@
 public class Main {
-//change the name of the class to anything else
 
 //create at least two attributes of that class
 
